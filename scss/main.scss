@@ -91,7 +91,8 @@ footer {
 
   .footer-copyright {
     background: $secondary-color-light;
-    border: #ff7500 solid 5px;
+    border-top: #ff7500 solid 2px;
+    border-bottom: #ff7500 solid 2px;
   }
 }
 
@@ -196,7 +197,8 @@ canvas {
 }
 
 .f1 {
-  border: #ff7500 solid 2px;
+  border-top: #ff7500 solid 2px;
+  border-bottom: #ff7500 solid 2px;
 }
 
 .nav-footer {
