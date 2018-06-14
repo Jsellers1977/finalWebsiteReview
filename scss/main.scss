@@ -84,7 +84,8 @@ overflow-x: hidden !important;
 }
 
 footer {
-  border: #ff7500 solid 5px;
+  border-top: #ff7500 solid 2px;
+    border-bottom: #ff7500 solid 2px;
 }
 .page-footer {
   background: $secondary-color;
